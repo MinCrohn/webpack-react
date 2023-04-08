@@ -1,4 +1,4 @@
-# React Starter Kit - A Boilerplate Code
+# Webpack-React Kit - A Boilerplate Code
 
 - Webpack, Babel을 통해 React 코드를 빌드하도록 설정되어 있습니다.
 - Webpack-dev-server가 내장되어 있습니다.
